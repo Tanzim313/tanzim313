@@ -2,17 +2,23 @@
 <h3 align="center">🚀 Full Stack Developer | 🤖 Aspiring Full Stack AI Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tanzim313&label=Profile%20views&color=0e75b6&style=flat" />
+  <a href="https://github.com/Tanzim313">
+    <img src="https://komarev.com/ghpvc/?username=Tanzim313&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Full+Stack+Web+Developer;Learning+AI+Engineering;React+%7C+Node+%7C+Django;Always+Learning+New+Things" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Currently working on **Web Applications & Real-life Projects**
-- 🌱 Learning **AI, Machine Learning & Advanced Backend**
-- 🩸 Built a **Blood Donation Website** to help people easily find donors
+- 🔭 Working on **Web Applications & Real-life Projects**
+- 🌱 Currently learning **AI, Machine Learning & Advanced Backend**
+- 🩸 Built a **Blood Donation Website** to help people find donors easily
 - 🎯 Goal: Become a **Professional Full Stack AI Engineer**
-- 💬 Ask me about **React, Node, Django, Databases**
+- 💬 Ask me about **React, Node.js, Django, Databases**
 
 ---
 
@@ -33,23 +39,31 @@
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
 </p>
 
-### 🧰 Tools
+### 🧰 Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
 </p>
 
 ---
 
-## 🌐 Projects
+## 🌐 Featured Project
 ### 🩸 Blood Donation Website
-🔗 Live Demo: https://sweet-pavlova-08681e.netlify.app/
+🔗 **Live Demo:**  
+https://sweet-pavlova-08681e.netlify.app/
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tanzim313&show_icons=true&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanzim313&layout=compact&theme=tokyonight" />
+</p>
+
+---
 
 ## 🔥 GitHub Streak
 <p align="center">
@@ -58,45 +72,26 @@
 
 ---
 
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanzim313&theme=tokyonight" />
+</p>
+
+---
+
+## 🧮 Total GitHub Commits
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tanzim313&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contact Me
+- 📧 Email: **tanzimhasanrizbi@gmail.com**
+- 💼 LinkedIn: **Tanzim Hasan Rizbi**
+- 🌍 GitHub: https://github.com/Tanzim313
+
+---
+
 ## ⚡ Fun Fact
-আমি real-life problem solve করা project বানাতে ভালোবাসি 💻✨
-
-
-# 🩸 Blood Donation Website
-
-A web-based platform to connect **blood donors** with **people in need** quickly and easily.
-
-🔗 **Live Website:**  
-https://sweet-pavlova-08681e.netlify.app/
-
----
-
-## 🌟 Features
-- 🧑‍🤝‍🧑 Donor Registration
-- 🔍 Search Blood Donors by Group
-- 📱 Responsive Design
-- ⚡ Fast & Simple UI
-
----
-
-## 🛠️ Technologies Used
-- ⚛️ React
-- 🟢 Node.js
-- 🚀 Express.js
-- 🐍 Django
-- 🍃 MongoDB / 🐬 MySQL
-- 🌐 Netlify (Deployment)
-
----
-
-## 🎯 Purpose
-এই প্রজেক্টের মূল উদ্দেশ্য হলো:
-> জরুরি মুহূর্তে যেন মানুষ সহজে রক্তদাতা খুঁজে পায় ❤️
-
----
-
-## 👨‍💻 Developer
-**Tanzim**  
-- GitHub: https://github.com/Tanzim313
-
-
+I love building real-life problem-solving applications and learning new technologies 💻✨
