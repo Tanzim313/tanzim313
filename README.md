@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Tanzim</h1>
-<h3 align="center">🚀 Full Stack Developer | 🤖 Aspiring Full Stack AI Engineer</h3>
+<h3 align="center"> Full Stack Developer | Aspiring Full Stack AI Engineer(learning)</h3>
 
 <p align="center">
   <a href="https://github.com/Tanzim313">
@@ -16,7 +16,6 @@
 ## 👨‍💻 About Me
 - 🔭 Working on **Web Applications & Real-life Projects**
 - 🌱 Currently learning **AI, Machine Learning & Advanced Backend**
-- 🩸 Built a **Blood Donation Website** to help people find donors easily
 - 🎯 Goal: Become a **Professional Full Stack AI Engineer**
 - 💬 Ask me about **React, Node.js, Django, Databases**
 
@@ -88,7 +87,7 @@ https://sweet-pavlova-08681e.netlify.app/
 
 ## 📫 Contact Me
 - 📧 Email: **tanzimhasanrizbi@gmail.com**
-- 💼 LinkedIn: **Tanzim Hasan Rizbi**
+- 💼 LinkedIn: **https://www.linkedin.com/in/tanzim-hasan-rizbi-153a38297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
 - 🌍 GitHub: https://github.com/Tanzim313
 
 ---
