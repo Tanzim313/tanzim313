@@ -13,22 +13,22 @@
 
 ---
 
-## 👨‍💻 About Me
-- 🔭 Working on **Web Applications & Real-life Projects**
-- 🌱 Currently learning **AI, Machine Learning & Advanced Backend**
-- 🎯 Goal: Become a **Professional Full Stack AI Engineer**
-- 💬 Ask me about **React, Node.js, Django, Databases**
+##  About Me
+- Working on **Web Applications & Real-life Projects**
+- Currently learning **AI, Machine Learning & Advanced Backend**
+- Goal: Become a **Professional Full Stack AI Engineer**
+- Ask me about **React, Node.js, Django, Databases**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🚀 Frontend
+###  Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react,html,css,js" />
 </p>
 
-### ⚙️ Backend
+###  Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
 </p>
@@ -38,7 +38,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
 </p>
 
-### 🧰 Tools & Platforms
+### Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
 </p>
@@ -52,21 +52,21 @@ https://sweet-pavlova-08681e.netlify.app/
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanzim313&theme=tokyonight" />
 </p>
 
 ---
 
-## 🧮 Total GitHub Commits
+## Total GitHub Commits
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tanzim313&theme=tokyonight" />
 </p>
 
 ---
 
-## 📫 Contact Me
-- 📧 **Email**: **tanzimhasanrizbi@gmail.com**
-- 💼 **LinkedIn**: **https://www.linkedin.com/in/tanzim-hasan-rizbi-153a38297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
+## Contact Me
+- **Email**: **tanzimhasanrizbi@gmail.com**
+- **LinkedIn**: **https://www.linkedin.com/in/tanzim-hasan-rizbi-153a38297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
 ---
