@@ -46,9 +46,9 @@
 ---
 
 ## 🌐 Featured Project
-### 🩸 Blood Donation Website
+### Iiuc Hall Meal Management System
 🔗 **Live Demo:**  
-https://sweet-pavlova-08681e.netlify.app/
+https://iiuchallmealmanagement.netlify.app/
 
 ---
 
